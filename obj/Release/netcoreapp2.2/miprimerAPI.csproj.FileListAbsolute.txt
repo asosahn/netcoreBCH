@@ -1,0 +1,16 @@
+/Users/andressosa/projects/test2/bin/Release/netcoreapp2.2/miprimerAPI.deps.json
+/Users/andressosa/projects/test2/bin/Release/netcoreapp2.2/miprimerAPI.runtimeconfig.json
+/Users/andressosa/projects/test2/bin/Release/netcoreapp2.2/miprimerAPI.runtimeconfig.dev.json
+/Users/andressosa/projects/test2/bin/Release/netcoreapp2.2/miprimerAPI.dll
+/Users/andressosa/projects/test2/bin/Release/netcoreapp2.2/miprimerAPI.pdb
+/Users/andressosa/projects/test2/bin/Release/netcoreapp2.2/miprimerAPI.xml
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.csprojAssemblyReference.cache
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.csproj.CoreCompileInputs.cache
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.RazorAssemblyInfo.cache
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.RazorAssemblyInfo.cs
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.AssemblyInfoInputs.cache
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.AssemblyInfo.cs
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.RazorTargetAssemblyInfo.cache
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.dll
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.xml
+/Users/andressosa/projects/test2/obj/Release/netcoreapp2.2/miprimerAPI.pdb
