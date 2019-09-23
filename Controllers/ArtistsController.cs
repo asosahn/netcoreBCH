@@ -65,7 +65,7 @@ namespace miprimerAPI.Controllers {
             if (id != artist.Id) {
                 return NotFound (new { mesasge = "Artist not found" });
             }
-            context.Entry (artist).State = EntityState.Modified;
+            context.Entry(artist).State = EntityState.Modified;
             await context.SaveChangesAsync ();
             return artist;
         }

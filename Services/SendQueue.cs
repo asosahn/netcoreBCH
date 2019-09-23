@@ -16,7 +16,7 @@ namespace test2.Services
         {
             try
             {
-                var factory = new ConnectionFactory() { HostName = "rabbitMQ" };
+                var factory = new ConnectionFactory() { HostName = "localhost" };
                 var connection = factory.CreateConnection();
                 var channel = connection.CreateModel();
                 channel.QueueDeclare(queue: queue.Name,
